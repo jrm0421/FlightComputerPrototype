@@ -1,6 +1,8 @@
 #ifndef GLOBALDECLARATIONS_H
 #define GLOBALDECLARATIONS_H
 
+#include <libraries.h>
+
 //TinyGPSPlus
 extern const int RXPin;
 extern const int TXPin;
